@@ -1,0 +1,18 @@
+shell-integration = zsh
+
+font-family = FiraCode Nerd Font
+
+window-height = 27
+window-width = 188
+window-padding-x = 10
+
+theme = carbonfox
+
+background-opacity = 0.85
+background-blur-radius = 20
+macos-titlebar-style = tabs
+
+macos-icon-frame = chrome
+macos-icon = custom-style
+macos-icon-ghost-color = #03FFC3
+macos-icon-screen-color = #ffffff
